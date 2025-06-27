@@ -1,11 +1,11 @@
-# 👋 Hi there, I’m [Your Name]  
-**Full‑Stack .NET Developer** · ASP.NET · .NET Core · C# · SQL · Angular/React
+# 👋 Hi there, I’m Dhaval Patel (techbydhaval)  
+**Full‑Stack .NET Developer** · ASP.NET · .NET Core · C# · SQL · Angular/React/Blazor/MVC
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 I have **8.5 years of experience** building scalable web apps and APIs using ASP.NET, .NET Core, C#, SQL, and modern front‑end frameworks (Angular, React) in Agile teams.  
+- 🎯 I have **8.5 years of experience** building scalable web apps and APIs using ASP.NET, .NET Core, C#, SQL, and modern front‑end frameworks (Angular, React, Blazor, MVC) in Agile teams.  
 - 🧩 Passionate about clean code, scalable architectures, and delivering high-quality solutions.  
 - 🤝 I enjoy collaborating within cross-functional teams, mentoring peers, and continuously learning new tech stacks.
 
@@ -15,22 +15,22 @@
 
 | **Back-End**                | **Front-End**         | **Database**         | **Tools & DevOps**      |
 |----------------------------|------------------------|----------------------|--------------------------|
-| ASP.NET, .NET Core, C#     | Angular, React, TypeScript | SQL Server, MySQL   | Git, Docker, Azure DevOps |
+| ASP.NET, .NET Core, C#     | Angular, React, TypeScript, Blazor, MVC | SQL Server, MySQL   | Git, Docker, Azure DevOps |
 | Web API, Entity Framework  | HTML5, CSS3, SCSS      | Entity Framework, Dapper | CI/CD, RESTful APIs     |
 
 ---
 
 ## 💼 Notable Projects
 
-### 🏗️ Project A: [Name]  
+### 🏗️ Project A:    
 - Developed a high-traffic e‑commerce platform using ASP.NET Core Web API with EF Core, integrating Angular-based front-end.  
 - Implemented microservices architecture, JWT authentication, and CI/CD pipelines using Azure DevOps.
 
-### 📊 Project B: [Name]  
+### 📊 Project B:   
 - Built RESTful APIs in .NET 6, integrated with React dashboard for real-time analytics.  
 - Optimized database using SQL Server and wrote complex procedures for reporting and data warehousing.
 
-### 🔐 Project C: [Name]  
+### 🔐 Project C:   
 - Designed and delivered a secure banking API platform on .NET Core, complying with OWASP and GDPR standards.  
 - Introduced unit and integration tests using xUnit, mocking via Moq, and achieved 90%+ code coverage.
 
@@ -46,9 +46,9 @@
 
 ## 📫 Let’s Connect
 
-- GitHub: [ruppysuppy/ruppysuppy](https://github.com/ruppysuppy/ruppysuppy)  
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]
+- GitHub: https://github.com/techbydhaval/techbydhaval/ 
+- LinkedIn: https://www.linkedin.com/in/techbydhaval/
+- Email: developer.dhavalp@gmail.com
 
 ---
 
