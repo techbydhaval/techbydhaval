@@ -51,6 +51,7 @@
 - Medium: https://techbydhaval.medium.com/
 - dev.too: https://dev.to/techbydhaval/
 - hasnode: https://hashnode.com/@techbydhaval
+- daily.dev: https://app.daily.dev/techbydhaval/
 - Email: developer.dhavalp@gmail.com
 
 ---
