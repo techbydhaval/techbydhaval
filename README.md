@@ -46,13 +46,16 @@
 
 ## 📫 Let’s Connect
 
-- GitHub: https://github.com/techbydhaval/techbydhaval/ 
+- GitHub: https://github.com/techbydhaval/ 
 - LinkedIn: https://www.linkedin.com/in/techbydhaval/
+- Medium: https://techbydhaval.medium.com/
+- dev.too: https://dev.to/techbydhaval/
+- hasnode: https://hashnode.com/@techbydhaval
 - Email: developer.dhavalp@gmail.com
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=techbydhaval&show_icons=true&theme=radical)
 
